@@ -2,7 +2,7 @@
 <strong>simple purple heart rain app | Sami Ghasemi</strong>
 
 # install 
-`cd quiz-app`
+`cd purple-heart-rain-app`
 
 `npm install server --save`
 
